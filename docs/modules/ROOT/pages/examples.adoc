@@ -2,4 +2,4 @@
 
 There are several examples for different chips to show how drogue device can be used.
 
-include::./examples/nrf52-microbit-uart.adoc[leveloffset=+1]
+* xref:examples/nrf52-microbit-uart.adoc[BBC micro:bit UART]
