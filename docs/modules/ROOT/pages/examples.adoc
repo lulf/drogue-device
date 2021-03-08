@@ -1,6 +1,0 @@
-= Examples
-
-There are several examples for different chips to show how drogue device can be used.
-
-include::./examples/nrf52-microbit-uart.adoc[leveloffset=+1]
-//include::./foo/included.adoc[leveloffset=+1]

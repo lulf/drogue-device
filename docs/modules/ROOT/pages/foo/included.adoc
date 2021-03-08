@@ -1,3 +1,0 @@
-= Included file
-
-I am included
